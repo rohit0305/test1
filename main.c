@@ -1,4 +1,1 @@
-hello ROHIT
-HEllo
-hiii
-hiiiii
+changed main .c from first branch
