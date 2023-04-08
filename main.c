@@ -1,4 +1,3 @@
-monday
 hello
 HEllo
 hiii
